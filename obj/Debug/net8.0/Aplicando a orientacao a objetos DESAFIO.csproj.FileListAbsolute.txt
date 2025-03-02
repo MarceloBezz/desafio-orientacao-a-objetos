@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\bin\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.exe
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\bin\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.deps.json
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\bin\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.runtimeconfig.json
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\bin\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.dll
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\bin\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.pdb
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.AssemblyInfo.cs
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.dll
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\refint\Aplicando a orientacao a objetos DESAFIO.dll
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.pdb
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\Aplicando a orientacao a objetos DESAFIO.genruntimeconfig.cache
+C:\Users\marce\Desktop\Alura\C#\Aplicando a orientacao a objetos DESAFIO\obj\Debug\net8.0\ref\Aplicando a orientacao a objetos DESAFIO.dll
